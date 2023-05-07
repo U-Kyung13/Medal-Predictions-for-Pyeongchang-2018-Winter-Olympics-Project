@@ -18,12 +18,12 @@
 
 ### 분석 과정
 - 영과잉 분포
-  ![분포]()
+  ![분포](https://user-images.githubusercontent.com/90254892/236656565-c63ffa4a-ecb9-4186-8a0f-8e21e58517d1.png)
   - 선형 회귀, 포아송 회귀, 영과잉 회귀, 음이항 회귀 모형 적합시킴
  
 - 모델 평가 기준
-  ![모델 평가 기준]
-  ![최종 모델 선정]
+  ![모델 평가 기준](https://user-images.githubusercontent.com/90254892/236656566-6410ee02-7cb2-4e60-a712-1d623f0f58ed.png)
+  ![최종 모델 선정](https://user-images.githubusercontent.com/90254892/236656567-f7c01811-c293-4b96-baeb-115ec3c06201.png)
   - 
   - Test set의 상위 30개에 대한 MAE가 가장 낮은 
   
