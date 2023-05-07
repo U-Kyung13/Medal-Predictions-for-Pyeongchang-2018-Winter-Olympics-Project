@@ -25,5 +25,5 @@
   ![모델 평가 기준](https://user-images.githubusercontent.com/90254892/236656566-6410ee02-7cb2-4e60-a712-1d623f0f58ed.png)
   ![최종 모델 선정](https://user-images.githubusercontent.com/90254892/236656567-f7c01811-c293-4b96-baeb-115ec3c06201.png)
   - Train : Test = 6 : 4
-  - Test set의 상위 30개에 대한 MAE가 가장 낮은 
+  - Test set의 상위 30개에 대한 MAE가 가장 낮은 영과잉 포아송 모형 선정
   
